@@ -1,0 +1,11 @@
+#
+# Import the CMS Site configuration for the store
+#
+
+# Language
+$lang=en
+$storeUid=ebook
+
+# Create CMS Site
+UPDATE CMSSite;uid[unique=true];name[lang=$lang];locale[lang=$lang]
+;ebook;"ebook Site";en_US
