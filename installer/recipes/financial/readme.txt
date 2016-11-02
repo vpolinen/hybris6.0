@@ -1,1 +1,0 @@
-Installs Financial Services Accelerator

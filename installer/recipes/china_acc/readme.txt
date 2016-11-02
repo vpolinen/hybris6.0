@@ -1,1 +1,0 @@
-China B2C Accelerator
